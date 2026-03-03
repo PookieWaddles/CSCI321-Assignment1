@@ -1,0 +1,58 @@
+CSCI 321 - Assignment 1 Part A: Project Proposal
+
+App Name: PlatTrack
+
+Problem Statement: Many gamers struggle to track their progress across multiple games,
+especially when aiming for 100% completion or earning all achievements. Existing platforms often
+lack personalized tracking tools. PlatTrack provides a centralized system for tracking game
+progress.
+
+Target Audience: Trophy hunters, completionists, and console/PC gamers ages 16–35.
+Key Features: Track games, update completion %, search/filter library, view stats, add notes, user
+profiles.
+
+Data Source: Local data storage (future API integration possible).
+
+User Stories
+
+View Game Library
+
+As a user, I want to view my list of tracked games so that I can see my progress.
+- Displays all games
+- Shows completion %
+- Updates when new games added
+
+Add a New Game
+
+As a user, I want to add a new game so that I can track progress.
+- Input game name
+- Enter completion %
+- Game appears in list
+
+Edit Game Progress
+
+As a user, I want to update progress so that my data is accurate.
+- Modify completion %
+- Changes saved
+- Updates immediately
+
+Search Games
+
+As a user, I want to search games to find them quickly.
+- Search bar filters results
+- Partial matches work
+- Updates in real time
+
+Filter Games
+
+As a user, I want to filter games by status.
+- Filter completed/incomplete
+- Results update
+- Can clear filter
+
+View Profile Stats
+
+As a user, I want to see my stats.
+- Shows total completed
+- Average %
+- Updates automatically
