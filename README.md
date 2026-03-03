@@ -5,7 +5,10 @@
 **App:** PlatTrack  
 
 ## Description
-This assignment demonstrates Swift fundamentals including variables, optionals, collections, control flow, and functions.
+This assignment includes both:
+- Part A: Project Proposal (app concept, wireframes, and user stories)
+- Part B: Swift programming exercises covering variables, optionals, collections, control flow, and functions
 
-## Files
-- `Assignment1.swift` – Contains all completed Swift exercises
+## Files Included
+- `Assignment1.swift` – Contains all completed Swift exercises (Part B)
+- `PlatTrack_PartA.pdf` – Contains app concept, wireframes, and user stories (Part A)
